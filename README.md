@@ -29,7 +29,7 @@
   <a href="https://github.com/TOXIC-ACE"><img title="Developer" src="https://img.shields.io/badge/Author-Anshif%20-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=000000&lines=COPYRIGHTS+ANSHIF MODS)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=000000&lines=COPYRIGHTS+ANSHIF-MODS)](https://git.io/typing-svg)
 
  </a>
 </p>
